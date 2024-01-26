@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpak=self.webpackChunkwebpak||[]).push([[96],{96:(e,c,n)=>{function a(){console.log("dynamic import")}n.r(c),n.d(c,{dynamic:()=>a})}}]);

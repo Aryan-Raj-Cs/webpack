@@ -1,0 +1,22 @@
+{
+  "name": "webpak",
+  "version": "1.0.0",
+  "description": "learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --mode development  --open",
+    "test": "BROWSER='google chrome'",
+    "create-directory": "mkdir my-directory",
+    "aryan-script": "node myScript.js"
+  },
+  "author": "Aryan Raj",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
